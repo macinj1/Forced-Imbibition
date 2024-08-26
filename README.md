@@ -10,4 +10,8 @@ The reposity offers an OpenFOAM implementation to study a 3D liquid-gas front pr
 
 J.R. Mac Intyre, A. Puisto, M. Korhonen, M. Alava, and J. Ortín. Multiphase CFD modeling of front propagation in a Hele-Shaw cell featuring a localized constriction. Phys. Rev. Fluids, 2021. 
 
-[doi: 10.1103/PhysRevFluids.6.084305](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.084305)
+[doi: 10.1103/PhysRevFluids.6.084305](https://link.aps.org/doi/10.1103/PhysRevFluids.6.084305)
+
+https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.084305
+
+https://link.aps.org/doi/10.1103/PhysRevFluids.6.084305
