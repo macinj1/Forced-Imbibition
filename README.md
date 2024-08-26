@@ -6,4 +6,8 @@ The reposity offers an OpenFOAM implementation to study a 3D liquid-gas front pr
 
 <video src="https://youtu.be/Q2ntjVyajEM" width="320" height="240"></video>
 
-[![alt text](https://github.com/macinj1/Forced-Imbibition/blob/main/figs/Imbibition.png)](https://www.youtube.com/watch?v=video-id)
+[![alt text](https://github.com/macinj1/Forced-Imbibition/blob/main/figs/Imbibition.png)](https://www.youtube.com/watch?v=Q2ntjVyajEM)
+
+J.R. Mac Intyre, A. Puisto, M. Korhonen, M. Alava, and J. Ortín. Multiphase CFD modeling of front propagation in a Hele-Shaw cell featuring a localized constriction. Phys. Rev. Fluids, 2021. 
+
+[doi: 10.1103/PhysRevFluids.6.084305](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.084305)
